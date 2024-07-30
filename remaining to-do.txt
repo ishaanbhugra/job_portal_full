@@ -1,0 +1,38 @@
+//TO-DO//
+
+record project video for GitHub
+
+
+//DONE//
+
+JWT_SECRET_KEY ERROR (postman response is wrong)
+secret or private key must have a value
+CHANGES MADE:
+process.env.JWT_SECRET_KEY --> `${process.env.JWT_SECRET_KEY}`
+AT auth.js, userSchema.js
+
+///////////
+
+check cloudinary pdf problem (pdf not accessible from link)
+
+cloudinary.uploader.upload
+added:
+resource-type:"raw"
+at 4 places in backend
+=NOW PDF DOWNLOAD WHEN URL IS HIT
+
+///////////
+
+change cities name
+
+///////////
+
+jobs and application test data
+
+///////////
+
+complete smtp module
+
+///////////
+2.12.09
+4.05.27
